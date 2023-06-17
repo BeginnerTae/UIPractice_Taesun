@@ -28,7 +28,10 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:textSize="12sp"
             android:text="저는 Beginner 개발자 태선입니다."/>
+
+<!--        sp : 핸드폰에서 설정한 글씨의 크기에 반영해서 지정(14sp 기본 사이즈) 작게할때는 12sp 미만은 쓰지않기-->
 
 
 
